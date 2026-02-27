@@ -16,7 +16,7 @@ let isInitialLoad = true;
 export default function Preloader({
   title = "Jardin Azul",
   duration = 2600,
-  buttonText = "Enter Website",
+  buttonText = "Enter",
   buttonHref = "#",
   onEnter,
   onAnimationComplete,
