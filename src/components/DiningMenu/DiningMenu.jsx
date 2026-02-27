@@ -152,7 +152,7 @@ const DiningMenu = () => {
                 ))}
 
               <div className="dining-preview-footer">
-                <p>Salle Blanche</p>
+                <p>Jardin Azul</p>
               </div>
             </div>
           </div>

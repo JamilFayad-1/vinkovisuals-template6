@@ -48,8 +48,8 @@ const INFO_CARDS = [
       "Contact our team for questions or arrangements. We respond with care, clarity, and attention to every visit.",
     items: [
       "+39 055 398 2417",
-      "hello@salleblanche.com",
-      "press@salleblanche.com",
+      "hello@jardinazul.com",
+      "press@jardinazul.com",
       "Guest Services",
     ],
   },

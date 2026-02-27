@@ -122,14 +122,14 @@ export default function About() {
         <div className="about-hero-pin">
           <div className="hero-heading">
             <Copy animateOnScroll={false} delay={0.85}>
-              <h1 className="heading-line-1">Salle</h1>
-              <h1 className="heading-line-2">Blanche</h1>
+              <h1 className="heading-line-1">Jardin</h1>
+              <h1 className="heading-line-2">Azul</h1>
               <h1 className="heading-line-3">Story</h1>
             </Copy>
           </div>
 
           <div className="hero-image">
-            <img src="/about/about-hero.jpg" alt="About Salle Blanche" />
+            <img src="/about/about-hero.jpg" alt="About Jardin Azul" />
           </div>
         </div>
       </section>
@@ -139,7 +139,7 @@ export default function About() {
           <Copy>
             <p className="mono">Defined by Balance and Restraint</p>
             <h3>
-              Salle Blanche is an exercise in quiet composition, where space,
+              Jardin Azul is an exercise in quiet composition, where space,
               light, and material come together with deliberate restraint.
             </h3>
             <h3>

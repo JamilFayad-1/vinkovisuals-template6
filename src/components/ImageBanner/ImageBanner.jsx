@@ -4,8 +4,8 @@ import "./ImageBanner.css";
 
 const ImageBanner = ({
   image = "/image-banner/image-banner.jpg",
-  heading = ["More", "Than", "Stay"],
-  description = "Salle Blanche, every detail is designed to make you feel at home with the elegance of Florence just beyond your door.",
+  heading = ["More", "Than", "Dining"],
+  description = "Jardin Azul is a high-end restaurant and bar where every detail is composed for elegant evenings, crafted pours, and unforgettable dining.",
 }) => {
   return (
     <section className="image-banner">

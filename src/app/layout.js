@@ -16,8 +16,8 @@ const dmMono = DM_Mono({
 });
 
 export const metadata = {
-  title: "Salle Blanche | Vinko Visuals",
-  description: "MWT by Vinko Visuals | FEB 2026",
+  title: "Jardin Azul | Vinko Visuals",
+  description: "High-End Restaurant & Bar by Vinko Visuals | FEB 2026",
 };
 
 export default function RootLayout({ children }) {

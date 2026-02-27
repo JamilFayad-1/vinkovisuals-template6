@@ -80,7 +80,7 @@ export default function Home() {
             delay={isInitialPageLoad ? preloaderDelay : 0.85}
           >
             <h1>
-              Salle <br /> Blanche
+              Jardin <br /> Azul
             </h1>
           </Copy>
 

@@ -135,7 +135,7 @@ const Footer = () => {
       <div className="footer-postcards">
         {POSTCARDS.map((card, index) => (
           <div className="footer-postcard" key={index}>
-            <img src={card.image} alt="Salle Blanche" />
+            <img src={card.image} alt="Jardin Azul" />
           </div>
         ))}
       </div>

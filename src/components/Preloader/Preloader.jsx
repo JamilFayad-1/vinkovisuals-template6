@@ -14,7 +14,7 @@ const EXIT_ANIMATION_MS = 700;
 let isInitialLoad = true;
 
 export default function Preloader({
-  title = "Salle Blanche",
+  title = "Jardin Azul",
   duration = 2600,
   buttonText = "Enter Website",
   buttonHref = "#",
