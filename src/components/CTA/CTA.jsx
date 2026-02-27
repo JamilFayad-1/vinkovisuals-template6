@@ -163,7 +163,7 @@ const CTA = () => {
                 start="top 80%"
                 delay={0.5}
               >
-                <span>Take a Table</span>
+                <span>Book a Table</span>
               </Copy>
             </a>
           </div>
